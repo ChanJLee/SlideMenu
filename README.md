@@ -10,6 +10,7 @@
 # Usage
 1: 创建一个布局文件 
 一如：
+```xml
 	<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
                 xmlns:tools="http://schemas.android.com/tools"
                 android:layout_width="match_parent"
